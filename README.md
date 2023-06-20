@@ -27,6 +27,7 @@ Android dependencies used:
 'com.google.accompanist:accompanist-permissions:0.30.1'
 
 Other dependencies:
+
 github.com/multiformats/go-varint
 github.com/multiformats/go-multibase
 github.com/multiformats/go-base32
