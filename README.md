@@ -5,12 +5,12 @@ Android dependencies used:
 
 'androidx.core:core-ktx:1.7.0'
 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.1'
-'androidx.activity:activity-compose:1.3.1'
+'androidx.activity:activity-compose:1.7.2'
 "androidx.compose.ui:ui:$compose_ui_version"
 "androidx.compose.ui:ui-tooling-preview:$compose_ui_version"
 'androidx.compose.material:material:1.4.0'
 'androidx.compose.material3:material3:1.1.0'
-"androidx.navigation:navigation-compose:2.5.3"
+"androidx.navigation:navigation-compose:2.6.0"
 'com.google.android.gms:play-services-location:21.0.1'
 'junit:junit:4.13.2'
 'androidx.test.ext:junit:1.1.5'
