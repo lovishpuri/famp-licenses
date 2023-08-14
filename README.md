@@ -33,7 +33,7 @@ github.com/multiformats/go-multibase
 github.com/multiformats/go-base32
 github.com/mr-tron/base58
 github.com/jackpal/go-nat-pmp
-github.com/jackpal/gateway
+github.com/libp2p/go-netroute
 github.com/google/uuid
 github.com/davecgh/go-spew
 github.com/huin/goupnp
