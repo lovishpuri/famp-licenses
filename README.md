@@ -45,3 +45,4 @@ golang.org/x/crypto
 github.com/gogo/protobuf
 github.com/stretchr/testify 
 github.com/syndtr/goleveldb
+github.com/wlynxg/anet
